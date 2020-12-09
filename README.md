@@ -12,7 +12,9 @@ Here is the demo picture:
 ![image](https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture1.jpg)
 
 </br>
-|Virtual Painter|Document Scanner|Number Plate Detector|
+
+|1|2|3|
 |:----:|:----:|:----:|
 |<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture1.jpg" width="300" height="200" />|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture2.jpg" width="300" height="200" />|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture3.jpg" width="300" height="200" /> </br>|
+|4|5|6|
 |<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture4.jpg" width="300" height="200" />|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture5.jpg" width="300" height="200" />|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture6.jpg" width="300" height="200" /> </br>|
