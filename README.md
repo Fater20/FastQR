@@ -11,6 +11,8 @@ Your user agent does not support the HTML5 Video element.
 Here is the demo picture:
 ![image](https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture1.jpg)
 
+</br>
+|Virtual Painter|Document Scanner|Number Plate Detector|
 |:----:|:----:|:----:|
 |<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture1.jpg" width="300" height="200" />|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture2.jpg" width="300" height="200" />|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture3.jpg" width="300" height="200" /> </br>|
 |<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture4.jpg" width="300" height="200" />|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture5.jpg" width="300" height="200" />|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture6.jpg" width="300" height="200" /> </br>|
