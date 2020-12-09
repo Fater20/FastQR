@@ -5,9 +5,12 @@ We use the Apriltag as visual markers in this sample. You can also use other QR 
 ## Demo
 Here is the demo video:
 <video src="https://github.com/Fater20/FastQR/blob/main/video/Demo%20Video.mp4" controls="controls">
-
-    <p>Your user agent does not support the HTML5 Video element.</p>
+Your user agent does not support the HTML5 Video element.
 </video>
 
 Here is the demo picture:
 ![image](https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture1.jpg)
+
+|:----:|:----:|:----:|
+|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture1.jpg" width="300" height="200" />|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture2.jpg" width="300" height="200" />|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture3.jpg" width="300" height="200" /> </br>|
+|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture4.jpg" width="300" height="200" />|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture5.jpg" width="300" height="200" />|<img src="https://github.com/Fater20/FastQR/blob/main/image/Demo%20picture6.jpg" width="300" height="200" /> </br>|
